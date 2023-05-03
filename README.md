@@ -1,0 +1,2 @@
+# War Game
+ War Game JavaFX => Ce projet consiste à réaliser un jeu de guerre dans le but de créer une interface où il y a un joueur principal (Hero) qui procède une arme et il souhaite tirer sur les monstres en lançant des balles. Si la balle touche un monstre, ce dernier meure et disparaître par la suite. Le jeu sera terminé si le joueur a complété le progresse jusqu'au le dernier stage (Win) ou le héros est touché parsix balles des monstres, il meure (Game over). On utilise la programmation orientée objet avec java - javaFX.
